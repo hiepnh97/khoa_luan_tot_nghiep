@@ -1,0 +1,64 @@
+﻿15520214 - 15520452
+Nguyễn Hoàng Hiệp
+Trần Hoàng Luân
+- Đường dẫn tới tài liệu tham khảo:
+TÀI LIỆU THAM KHẢO 
+
+
+######################Tiếng Việt##########################
+
+Couhp, “RANDOM FOREST, THẾ NÀO LÀ MỘT RỪNG NGẪU NHIÊN,” 24 01 2018. [Trực tuyến]. Available: https://couhpcode.wordpress.com/2018/01/24/random-forest-the-nao-la-mot-rung-ngau-nhien/. 
+
+-------------------------------------------------- 
+N. D. Sim, “Phân lớp bằng Random Forests trong Python,” 23 11 2018. [Trực tuyến]. Available: https://viblo.asia/p/phan-lop-bang-random-forests-trong-python-djeZ1D2QKWz. 
+
+--------------------------------------------------
+“Nền tảng của deep learning - Multi-layer Perceptron,” 2017. [Trực tuyến]. Available: https://dlapplications.github.io/2018-06-15-MLP/. 
+
+######################Tiếng Anh##########################
+[1] 	P. Muncaster, "Global Fraud Hits £3.2 Trillion," 22 May 2018. [Online]. 
+Available: https://www.infosecurity-magazine.com/news/global-fraud-hits-32
+-trillion/.
+
+[2] 	Javelin, "Identity Fraud Hits Record High with 15.4 Million U.S. Victims in 2016, 
+Up 16 Percent According to New Javelin Strategy & Research Study," [Online]. 
+Available: https://www.javelinstrategy.com/press-release/identity-fraud-hits
+-record-high-154-million-us-victims-2016-16-percent-according-new.
+
+[3] 	AltexSoft, "Fraud Detection: How Machine Learning Systems Help Reveal 
+Scams in Fintech, Healthcare, and eCommerce," [Online]. 
+Available: https://www.altexsoft.com/whitepapers/fraud-detection-how
+-machine-learning-systems-help-reveal-scams-in-fintech-healthcare-and
+-ecommerce/.
+
+[4] 	A. Oleksiuk, "How to Use Machine Learning in Fraud Detection," 
+30 July 2019. [Online]. Available: https://www.intellias.com/how-to-use
+-machine-learning-in-fraud-detection/.
+
+[5] 	Machine Learning Group - ULB, "Credit Card Fraud Detection," 
+23 March 2018. [Online]. 
+Available: https://www.kaggle.com/mlg-ulb/creditcardfraud.
+
+[6] 	T. @. NTNU, "Synthetic Financial Datasets For Fraud Detection," 
+04 March 2017. [Online]. 
+Available: https://www.kaggle.com/ntnu-testimon/paysim1.
+
+[7] 	Edgar Alonso Lopez-Rojas, Ahmad Elmir and Stefan Axelsson, 
+"PAYSIM: A FINANCIAL MOBILE MONEY SIMULATOR FOR FRAUD
+ DETECTION," pp. 249-255, 2016. 
+
+[8] 	L. Breiman and A. Cutler, "Random Forests," [Online]. 
+Available: 
+https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#intro.
+
+[11] 	T. Chen, T. He and M. Benesty, "Extreme Gradient Boosting," arXiv, 
+pp. 785-794, 2016. 
+[13] 	Pierre Carbonnelle, "PYPL PopularitY of Programming Language," 2019. [Online]. 
+Available: http://pypl.github.io/PYPL.html.
+
+[14] 	A. Joshua, "Predicting Fraud in Financial Payment Services," 2017. [Online].
+ Available: https://www.kaggle.com/arjunjoshua/kernels?sortBy=dateRun&group
+=collaboration&pageSize=20&userId=779333.
+
+[15] 	S. PAFKA, "BENCHMARKING RANDOM FOREST IMPLEMENTATIONS," 19 05 2015. [Online]. 
+Available: http://datascience.la/benchmarking-random-forest-implementations/.

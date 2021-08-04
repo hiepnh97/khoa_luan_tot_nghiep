@@ -1,0 +1,7 @@
+﻿15520214 - 15520452
+Nguyễn Hoàng Hiệp
+Trần Hoàng Luân
+- Phần mềm chúng tôi sử dụng công cụ online: Colab Google
+
+Đường dẫn tới công cụ: https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+
